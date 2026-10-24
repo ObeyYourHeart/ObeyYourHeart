@@ -32,7 +32,7 @@ K 线交易 roguelike。本金 ¥250,000，三个月房租 ¥342,000，每个交
 <h3><a href="https://obeyyourheart.github.io/aigirl-diary/">AI娘串门日记</a></h3>
 13 位 AI 娘抢 GPU、抢电、训练最强模型的派对桌游。可以和电脑玩，也可以几个人围着同一台电脑玩，或者创建房间和朋友联机。
 <br><br>
-<a href="https://obeyyourheart.github.io/aigirl-diary/"><b>▶ 在线玩</b></a> · <a href="https://github.com/ObeyYourHeart/aigirl-diary">源码</a>
+<a href="https://obeyyourheart.github.io/aigirl-diary/"><b>▶ 在线玩</b></a> · <a href="https://github.com/ObeyYourHeart/aigirl-diary">仓库</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://obeyyourheart.github.io/ai-girl-fumo/"><img src="assets/ai-girl-fumo.jpg" alt="AI 娘 FUMO 图鉴 角色详情"></a>
