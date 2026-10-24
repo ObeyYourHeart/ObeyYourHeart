@@ -49,7 +49,7 @@ K 线交易 roguelike。本金 ¥250,000，三个月房租 ¥342,000，每个交
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://obeyyourheart.github.io/style-board/"><img src="assets/style-board.jpg" alt="动画风格选片台 首页"></a>
+<a href="https://obeyyourheart.github.io/style-board/"><img src="assets/style-board.jpg" alt="动画风格选片台 按分组浏览"></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://obeyyourheart.github.io/style-board/">动画风格选片台</a></h3>
